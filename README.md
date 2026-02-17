@@ -12,10 +12,7 @@ I am an experienced software engineer pivoting into Data Science and looking for
 - Data visualization: Tableau, Matplotlib, Seaborn, Plotly  
 - Machine learning: scikit-learn, Natural Language Processing  
 - Cloud: AWS (EC2, EMR, S3), Hadoop, Spark  
-- Operating systems: Linux, Windows  
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lalanamika&show_icons=true&locale=en&layout=compact" alt="lalanamika" /></p>
+- Operating systems: Linux, Windows
 
 ## Education
 - Data Science Diploma, BrainStation, 2024
